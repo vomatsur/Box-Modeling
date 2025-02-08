@@ -1,0 +1,68 @@
+.devil{
+    width: 800px;
+    height: 650px;
+    background-color: rgb(23, 99, 111);
+    border: 15px solid rgb(23, 99, 111);
+    margin-top: 80px;
+    margin-left: 100px;
+    padding-left: 350px;
+    padding-top:10px ;
+
+    
+}
+h1{
+    background-color: rgb(97, 46, 46);
+    color:white;
+    width: 500px;
+    text-align: center;
+    
+
+}
+.devil2{
+    background-color: black;
+    width: 650px;
+    height: 320px;
+    border: 5px solid red;
+    margin-right: 1000px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+div{
+    color: black;
+    background-color: rgb(50, 231, 171);
+    height: 100px;
+    padding-top: 20px;
+    
+}
+.devil3{
+    color: black;
+    background-color:rgb(50, 231, 171) ;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
